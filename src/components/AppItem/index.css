@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.app_container {
+  background-color: #ffffff;
+  height: 80px;
+  width: 80px;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 10px;
+}
+.app {
+  height: 50%;
+  width: 50%;
+}
+.appname {
+  color: #1e293b;
+  font-size: 10px;
+}
